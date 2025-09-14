@@ -9,3 +9,9 @@
 - Standardized payment API
 - Example application
 - Documentation and setup guides
+
+
+## [1.0.0+1] - 2025-09-14
+
+### Added
+- Updated Documentation and setup guides
