@@ -9,12 +9,9 @@ documentation: https://github.com/MehadiReaz/unified_payment#readme
 topics:
   - payment
   - stripe
-  - paypal
-  - razorpay
-  - paystack
-  - flutterwave
   - webview
   - fintech
+  - flutter
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
