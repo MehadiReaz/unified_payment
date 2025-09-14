@@ -1,0 +1,23 @@
+name: unified_payment
+description: A Flutter package that provides a unified API for multiple payment providers (Stripe, PayPal, RazorPay, Paystack, Flutterwave) using a WebView-first approach.
+version: 1.0.0
+homepage: https://github.com/your_username/unified_payment
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.4.2
+  http: ^1.1.0
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  # This package is a Dart package, no platform-specific assets needed
