@@ -10,7 +10,7 @@ topics:
   - payment
   - stripe
   - webview
-  - fintech
+  - paypal
   - flutter
 
 environment:
